@@ -29,7 +29,7 @@ This project aims to provide a low-cost, real-time, and automated water quality 
 * REST API architecture
 * Responsive frontend interface
 
----
+----------------------
 
 # 🛠 Hardware Components
 
