@@ -1,0 +1,44 @@
+/* Full page section */
+.history-container {
+  min-height: 100vh;
+  padding: 40px;
+  background: #f8fafc;
+}
+
+/* Main title */
+.history-title {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #0f172a;
+  font-size: 32px;
+}
+
+/* Table style */
+.history-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* Header cells */
+.history-table th {
+  background: #2563eb;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+}
+
+/* Data cells */
+.history-table td {
+  padding: 15px;
+  text-align: center;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+/* Row hover */
+.history-table tr:hover {
+  background: #f1f5f9;
+}

@@ -1,0 +1,37 @@
+/* Main page area */
+.profile-container {
+  min-height: 100vh;
+  padding: 40px;
+  background: #f8fafc;
+}
+
+/* Page title */
+.profile-title {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #0f172a;
+  font-size: 32px;
+}
+
+/* Profile card */
+.profile-card {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* Name */
+.profile-card h2 {
+  margin-bottom: 15px;
+  color: #2563eb;
+}
+
+/* Text */
+.profile-card p {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #334155;
+}

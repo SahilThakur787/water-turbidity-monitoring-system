@@ -1,0 +1,31 @@
+/* Main page area */
+.settings-container {
+  min-height: 100vh;
+  padding: 40px;
+  background: #f8fafc;
+}
+
+/* Page title */
+.settings-title {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #0f172a;
+  font-size: 32px;
+}
+
+/* Settings card */
+.settings-card {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* Each line */
+.settings-card p {
+  margin-bottom: 14px;
+  font-size: 18px;
+  color: #334155;
+}
